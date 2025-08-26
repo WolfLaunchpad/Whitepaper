@@ -9,7 +9,9 @@ Trading Bot Volume – Monthly or weekly volume based, tiered by features.
 
 Market Making/ Dex aggregator – Spread fees, partner project support fees, and liquidity provisioning profits.
 
-Ecosystem Fees – Transaction fees from swaps, staking, or additional dApps built on WOLF.
+Ecosystem Fees – Transaction fees from swaps, staking, or additional token launches built on WOLF.
+
+Native token fee - Transaction fees from swaps (2% tax per swap)
 
 2. Allocation of Revenue
 
@@ -53,7 +55,7 @@ Tier 1: Wolf Pup (Basic)
 
 Minimum Stake/hold: 100,000 $WOLF
 
-Reward Share: Base level (e.g., 1x multiplier)
+Reward Share: Base level 10% (e.g., 1.1x multiplier)
 
 Tier 2: Alpha Wolf (Intermediate)
 
@@ -67,7 +69,7 @@ Minimum Stake: 5,000,000 $WOLF
 
 Reward Share: 2x multiplier
 
-Bonus: Priority access to Launchpad allocations & bot discounts
+Bonus: Priority access to Launchpad allocations & Market aggregator / trading UI.
 
 Tier 4: Legendary Wolf (Elite)
 
