@@ -1,7 +1,7 @@
 # LEGAL DISCLAIMER
 🚨 Legal Disclaimer
 
-This document is provided for informational purposes only and does not constitute financial, investment, legal, or tax advice. The [Project Name] token and related ecosystem are experimental technologies and should be treated as such.
+This document is provided for informational purposes only and does not constitute financial, investment, legal, or tax advice. The [WOLF] token and related ecosystem are experimental technologies and should be treated as such.
 
 By participating in, purchasing, holding, or otherwise using [WOLF] tokens or engaging with the project ecosystem, you acknowledge and agree to the following:
 
