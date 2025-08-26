@@ -1,4 +1,4 @@
-# Whitepaper
+# LEGAL DISCLAIMER
 🚨 Legal Disclaimer
 
 This document is provided for informational purposes only and does not constitute financial, investment, legal, or tax advice. The [Project Name] token and related ecosystem are experimental technologies and should be treated as such.
